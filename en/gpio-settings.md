@@ -93,9 +93,10 @@ Tested on GK7205V300 for /dev/ttyАМА1:
 
 ### JUAN boards (Sannce)
 
-| Processor   | IRCUT1 | IRCUT2 | IRSTATUS      | TESTED BOARDS | DEVICE ID |
-|-------------|--------|--------|---------------|---------------|-----------|
-| Hi3518Ev200 | 65     | 64     | 62 (inverted) | 18EV200_V205P | N18EV2W   |
+| Processor   | IRCUT1 | IRCUT2 | IRSTATUS      | TESTED BOARDS         | DEVICE ID |
+|-------------|--------|--------|---------------|-----------------------|-----------|
+| Hi3518Cv100 |  2     |  4     |               | HI3518_AR0130_V2.1.1. |           |
+| Hi3518Ev200 | 65     | 64     | 62 (inverted) | 18EV200_V205P         | N18EV2W   |
 
 ### JVT boards
 
